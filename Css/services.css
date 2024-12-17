@@ -72,17 +72,6 @@ h2 {
     justify-content: center;
     align-items: center;
 }
-.image {
-    transform-style: preserve-3d; /* Keeps 3D transformations intact */
-    transition: transform 1s ease;
-}
-.image-2 {
-    display: block;
-    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); /* 3D rotation */
-}
-.container:hover .image {
-    transform: rotateX(45deg) rotateY(45deg) rotateZ(45deg); /* Rotate on hover */   
-}
 .horse {
     width: 50px;
     height: auto;
