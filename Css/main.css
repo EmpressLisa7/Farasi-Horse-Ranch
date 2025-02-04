@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgb(206, 56, 56);
-    background-image: url("/Images/Most\ Expensive\ Horses.webp");
+    background-image: url("../images/most-expensive-horse.webp");
 }
 header {
     background-color: rgba(105, 54, 36, 1);
